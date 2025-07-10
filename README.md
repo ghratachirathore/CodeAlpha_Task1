@@ -1,1 +1,1 @@
-# CodeAlpha_Task1
+A responsive music player using HTML, CSS, and JavaScript with play, pause, next, and previous controls. It displays song title, artist, and duration, includes a progress bar, volume control, playlist, and supports autoplay of the next track.
