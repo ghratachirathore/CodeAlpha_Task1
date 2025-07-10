@@ -1,1 +1,1 @@
-A responsive music player using HTML, CSS, and JavaScript with play, pause, next, and previous controls. It displays song title, artist, and duration, includes a progress bar, volume control, playlist, and supports autoplay of the next track.
+A responsive image gallery using HTML, CSS, and JavaScript with lightbox view, next/prev navigation, hover effects, and smooth transitions. It adapts to all screen sizes and includes optional image filters for category-based viewing.
